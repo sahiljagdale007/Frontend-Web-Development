@@ -1,0 +1,52 @@
+li {
+  font-weight: 700;
+}
+
+.html {
+  color: #e34f24;
+}
+.css {
+  color: blue;
+}
+.js {
+  color: rgb(129, 129, 28);
+}
+.android {
+  color: green;
+}
+.ios {
+  color: grey;
+}
+
+#html {
+  font-size: 32px;
+}
+#css {
+  font-size: 32px;
+}
+#js {
+  font-size: 32px;
+}
+#android {
+  font-size: 32px;
+}
+#ios {
+  font-size: 32px;
+}
+
+[class] {
+  background-color: green;
+}
+[sahilname] {
+  background-color: rgb(103, 103, 156);
+}
+
+ul p {
+  color: aqua;
+}
+h1:hover {
+    color: blue;
+}
+p:hover{
+    color: red;
+}

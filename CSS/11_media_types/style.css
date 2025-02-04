@@ -1,0 +1,18 @@
+.square
+{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    border: 25px solid blue;
+    /* print-color-adjust:exact;
+    -webkit-print-color-adjust: exact; */
+}
+@media print {
+    .h1{
+        font-size: 48px;
+    }
+    .square{
+        border:25px solid red;     /*this will aplly when we print the webpage*/
+        background-color: hotpink;
+   }
+}

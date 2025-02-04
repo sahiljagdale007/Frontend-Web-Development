@@ -1,0 +1,40 @@
+/* main{
+  height:400px;
+  width:600px; */
+/* background-color: darkkhaki; */
+/* background-color: darkkhaki; */
+/* position:relative; */
+
+/* } */
+.box {
+  width: 300px;
+  height: 150px;
+  /* background-color: green; */
+  background-image: url(https://images.unsplash.com/photo-1542397284385-6010376c5337?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* opacity: 0.5; */
+  /* transform: scale(5); */
+  /* transform-origin: 100% 100%; */
+  /* transform:rotate(45deg);  */
+  /* 
+   transform:translateX(50px); */
+  /* margin-top: 100px; */
+  padding: 8px;
+  position: aboslute;
+  left: 50%;
+  top: 50%;
+  border-radius: 12px;
+  /* transform: translate(-50%, -50%) ; */
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+  text-shadow: 2px 2px #d00b0b;
+  transition: transform 200ms;
+  /* box-shadow: 100px 100px 40px rgba(0, 0, 0, 0.2); */
+}
+.box:hover{
+   /* background-color: violet; */
+   transform: translate(-50%, -50%) rotate(45deg) scale(1.5) ;
+}
+h1{
+  color: red;
+}

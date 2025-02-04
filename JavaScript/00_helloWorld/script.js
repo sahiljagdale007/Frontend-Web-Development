@@ -1,0 +1,5 @@
+console.log('Hello World!!')
+console.log(56)
+console.log(5+6)
+console.log(56+4)
+console.log(5+6-4/2*2)
