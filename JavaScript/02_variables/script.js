@@ -4,8 +4,9 @@ let age = 25
 let isHappy = true
 
 let call = 'Hi myself' + ' ' + username + ' ' + age
-
+{
 let firstname = 'sahil'
+}
 let lastname = 'jagdale'
 
 let intro = M='My name is '+ firstname +' '+ lastname + '.'
@@ -13,3 +14,12 @@ let intro = M='My name is '+ firstname +' '+ lastname + '.'
 let a   //undefined
 
 let b = null //object
+
+//const
+
+const hoursInDay = 24
+
+//var
+{
+    var fkk = 'sahil'      //block of code
+}
